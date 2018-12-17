@@ -1,0 +1,20 @@
+1. https://www.w3schools.com/xml/xpath_syntax.asp (https://www.w3schools.com/xml/xpath_syntax.asp)
+2. https://docs.python.org/2/library/xml.etree.elementtree.html#module-xml.etree.ElementTree
+(https://docs.python.org/2/library/xml.etree.elementtree.html#module-xml.etree.ElementTree)
+3. https://stackoverflow.com/questions/45771809/how-to-extract-and-visualize-data-from-osm-file-inpython
+(https://stackoverflow.com/questions/45771809/how-to-extract-and-visualize-data-from-osm-filein-
+python)
+4. https://discussions.udacity.com/t/lesson-13-quiz-10/315576/7?u=abir.pattanaik
+(https://discussions.udacity.com/t/lesson-13-quiz-10/315576/7?u=abir.pattanaik)
+5. https://discussions.udacity.com/t/p3-openstreetmap---cleaning-street-names/238014?u=abir.pattanaik
+(https://discussions.udacity.com/t/p3-openstreetmap---cleaning-street-names/238014?u=abir.pattanaik)
+6. http://effbot.org/zone/element-iterparse.htm (http://effbot.org/zone/element-iterparse.htm)
+7. https://developers.google.com/edu/python/regular-expressions
+(https://developers.google.com/edu/python/regular-expressions)
+8. https://discussions.udacity.com/t/p3-project-combining-auditing-cleaning-and-csv-creation/231037/2
+(https://discussions.udacity.com/t/p3-project-combining-auditing-cleaning-and-csv-creation/231037/2)
+9. http://www.geonames.org/postal-codes/US/NV/nevada.html (http://www.geonames.org/postalcodes/
+US/NV/nevada.html)
+10. http://sqlitebrowser.org/ (http://sqlitebrowser.org/)
+11. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet (https://github.com/adamp/
+markdown-here/wiki/Markdown-Cheatsheet)
